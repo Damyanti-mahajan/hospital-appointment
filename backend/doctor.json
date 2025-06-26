@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dr. Sharma",
+    "email": "drsharma@example.com",
+    "password": "123456",
+    "role": "doctor"
+  },
+  {
+    "name": "Dr. Meena",
+    "email": "drmeena@example.com",
+    "password": "123456",
+    "role": "doctor"
+  }
+]
